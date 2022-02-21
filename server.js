@@ -4,11 +4,11 @@ const app = express()
 const fs = require('fs');
 app.use(cors())
 
-app.get('/', function(req, res) {
-    res.send("^.^")
-})
+// app.get('/', function(req, res) {
+//     res.send("^.^")
+// })
 
-app.get('/get', function(req, res) {
+app.get('/', function(req, res) {
     fs.readFile('./test.json', 'utf8', (error, jsonFile) => {
         if (error) {
             return res.status(400).send({
