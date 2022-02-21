@@ -1,6 +1,8 @@
 const express = require('express')
+const cors = require('cors')
 const app = express()
 const fs = require('fs');
+app.use(cors())
 
 app.get('/', function(req, res) {
     res.send("^.^")
