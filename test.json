@@ -2,8 +2,8 @@
     "optionType": "group",
     "optionGroupFrameList": [{
             "optionFrameValueList": [
-                "S",
-                "M"
+                "스몰",
+                "라지"
             ],
             "optionTitle": "사이즈"
         },
@@ -66,7 +66,7 @@
                 "M",
                 "빨강"
             ],
-            "remainCount": 1,
+            "remainCount": 0,
             "isDelete": false,
             "name": "M / 빨강"
         }
