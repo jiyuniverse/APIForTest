@@ -19,6 +19,17 @@ app.get('/', function(req, res) {
     });
 })
 
+app.get('/getOptionData', function(req, res) {
+    fs.readFile('./test2.json', 'utf8', (error, jsonFile) => {
+        if (error) {
+            return res.status(400).send({
+                message: '캔낫 readFile'
+            });
+        }
+        res.send(jsonFile)
+    });
+})
+
 app.listen(3000, () => {
     console.log("암 listening on 3000")
 })
