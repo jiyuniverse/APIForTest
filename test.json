@@ -22,7 +22,6 @@
                 "검정"
             ],
             "remainCount": 0,
-            "isDelete": false,
             "name": "S / 검정"
         },
         {
@@ -31,7 +30,6 @@
                 "하양"
             ],
             "remainCount": 0,
-            "isDelete": false,
             "name": "S / 하양"
         },
         {
@@ -40,7 +38,6 @@
                 "빨강"
             ],
             "remainCount": 0,
-            "isDelete": false,
             "name": "S / 빨강"
         },
         {
@@ -49,7 +46,6 @@
                 "검정"
             ],
             "remainCount": 1,
-            "isDelete": false,
             "name": "M / 검정"
         },
         {
@@ -58,7 +54,6 @@
                 "하양"
             ],
             "remainCount": 1,
-            "isDelete": false,
             "name": "M / 하양"
         },
         {
@@ -67,7 +62,6 @@
                 "빨강"
             ],
             "remainCount": 0,
-            "isDelete": false,
             "name": "M / 빨강"
         }
     ]
