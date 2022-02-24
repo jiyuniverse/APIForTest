@@ -1,68 +1,176 @@
 {
-    "optionType": "group",
-    "optionGroupFrameList": [{
+    "optionGroupFrameList": [
+        {
             "optionFrameValueList": [
-                "스몰",
-                "라지"
+                "M",
+                "L"
             ],
             "optionTitle": "사이즈"
         },
         {
             "optionFrameValueList": [
-                "검정",
-                "하양",
-                "빨강"
+                "블랙",
+                "화이트",
+                "레드"
             ],
             "optionTitle": "색상"
+        },
+        {
+            "optionFrameValueList": [
+                "스트랩",
+                "케이스"
+            ],
+            "optionTitle": "부품"
         }
     ],
-    "optionList": [{
-            "optionNameList": [
-                "S",
-                "검정"
-            ],
-            "remainCount": 1,
-            "name": "S / 검정"
-        },
+    "optionList": [
         {
             "optionNameList": [
-                "S",
-                "하양"
+                "M",
+                "블랙",
+                "스트랩"
             ],
-            "remainCount": 0,
-            "name": "S / 하양"
-        },
-        {
-            "optionNameList": [
-                "S",
-                "빨강"
-            ],
-            "remainCount": 0,
-            "name": "S / 빨강"
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "M / 블랙 / 스트랩",
+            "index": 0
         },
         {
             "optionNameList": [
                 "M",
-                "검정"
+                "블랙",
+                "케이스"
             ],
-            "remainCount": 1,
-            "name": "M / 검정"
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "M / 블랙 / 케이스",
+            "index": 1
         },
         {
             "optionNameList": [
                 "M",
-                "하양"
+                "화이트",
+                "스트랩"
             ],
-            "remainCount": 1,
-            "name": "M / 하양"
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "M / 화이트 / 스트랩",
+            "index": 2
         },
         {
             "optionNameList": [
                 "M",
-                "빨강"
+                "화이트",
+                "케이스"
             ],
-            "remainCount": 0,
-            "name": "M / 빨강"
+            "isDelete": false,
+            "remainCount": 99,
+            "optionName": null,
+            "name": "M / 화이트 / 케이스",
+            "index": 3
+        },
+        {
+            "optionNameList": [
+                "M",
+                "레드",
+                "스트랩"
+            ],
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "M / 레드 / 스트랩",
+            "index": 4
+        },
+        {
+            "optionNameList": [
+                "M",
+                "레드",
+                "케이스"
+            ],
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "M / 레드 / 케이스",
+            "index": 5
+        },
+        {
+            "optionNameList": [
+                "L",
+                "블랙",
+                "스트랩"
+            ],
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "L / 블랙 / 스트랩",
+            "index": 6
+        },
+        {
+            "optionNameList": [
+                "L",
+                "블랙",
+                "케이스"
+            ],
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "L / 블랙 / 케이스",
+            "index": 7
+        },
+        {
+            "optionNameList": [
+                "L",
+                "화이트",
+                "스트랩"
+            ],
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "L / 화이트 / 스트랩",
+            "index": 8
+        },
+        {
+            "optionNameList": [
+                "L",
+                "화이트",
+                "케이스"
+            ],
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "L / 화이트 / 케이스",
+            "index": 9,
+            "count": 1,
+            "realCount": 1,
+            "msg": ""
+        },
+        {
+            "optionNameList": [
+                "L",
+                "레드",
+                "스트랩"
+            ],
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "L / 레드 / 스트랩",
+            "index": 10
+        },
+        {
+            "optionNameList": [
+                "L",
+                "레드",
+                "케이스"
+            ],
+            "isDelete": false,
+            "remainCount": 100,
+            "optionName": null,
+            "name": "L / 레드 / 케이스",
+            "index": 11
         }
-    ]
+    ],
+    "optionType": "group"
 }
