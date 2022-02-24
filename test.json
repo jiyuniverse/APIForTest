@@ -1,109 +1,9 @@
 {
     "optionType": "group",
-    "optionList": [
-        {
-            "optionNameList": [
-                "스몰",
-                "검정"
-            ],
-            "remainCount": 100,
-            "name": "스몰 / 검정"
-        },
-        {
-            "optionNameList": [
-                "스몰",
-                "하양"
-            ],
-            "remainCount": 1,
-            "name": "스몰 / 하양"
-        },
-        {
-            "optionNameList": [
-                "스몰",
-                "빨강"
-            ],
-            "remainCount": 0,
-            "name": "스몰 / 빨강"
-        },
-        {
-            "optionNameList": [
-                "스몰",
-                "노랑"
-            ],
-            "remainCount": 1,
-            "name": "스몰 / 노랑"
-        },
-        {
-            "optionNameList": [
-                "라지",
-                "검정"
-            ],
-            "remainCount": 0,
-            "name": "라지 / 검정"
-        },
-        {
-            "optionNameList": [
-                "라지",
-                "하양"
-            ],
-            "remainCount": 0,
-            "name": "라지 / 하양"
-        },
-        {
-            "optionNameList": [
-                "라지",
-                "빨강"
-            ],
-            "remainCount": 0,
-            "name": "라지 / 빨강"
-        },
-        {
-            "optionNameList": [
-                "라지",
-                "노랑"
-            ],
-            "remainCount": 0,
-            "name": "라지 / 노랑"
-        },
-        {
-            "optionNameList": [
-                "뭐지",
-                "검정"
-            ],
-            "remainCount": 1,
-            "name": "뭐지 / 검정"
-        },
-        {
-            "optionNameList": [
-                "뭐지",
-                "하양"
-            ],
-            "remainCount": 1,
-            "name": "뭐지 / 하양"
-        },
-        {
-            "optionNameList": [
-                "뭐지",
-                "빨강"
-            ],
-            "remainCount": 1,
-            "name": "뭐지 / 빨강"
-        },
-        {
-            "optionNameList": [
-                "뭐지",
-                "노랑"
-            ],
-            "remainCount": 1,
-            "name": "뭐지 / 노랑"
-        }
-    ],
-    "optionGroupFrameList": [
-        {
+    "optionGroupFrameList": [{
             "optionFrameValueList": [
-                "스몰",
-                "라지",
-                "뭐지"
+                "S",
+                "M"
             ],
             "optionTitle": "사이즈"
         },
@@ -111,10 +11,58 @@
             "optionFrameValueList": [
                 "검정",
                 "하양",
-                "빨강",
-                "노랑"
+                "빨강"
             ],
             "optionTitle": "색상"
+        }
+    ],
+    "optionList": [{
+            "optionNameList": [
+                "S",
+                "검정"
+            ],
+            "remainCount": 0,
+            "name": "S / 검정"
+        },
+        {
+            "optionNameList": [
+                "S",
+                "하양"
+            ],
+            "remainCount": 0,
+            "name": "S / 하양"
+        },
+        {
+            "optionNameList": [
+                "S",
+                "빨강"
+            ],
+            "remainCount": 0,
+            "name": "S / 빨강"
+        },
+        {
+            "optionNameList": [
+                "M",
+                "검정"
+            ],
+            "remainCount": 1,
+            "name": "M / 검정"
+        },
+        {
+            "optionNameList": [
+                "M",
+                "하양"
+            ],
+            "remainCount": 1,
+            "name": "M / 하양"
+        },
+        {
+            "optionNameList": [
+                "M",
+                "빨강"
+            ],
+            "remainCount": 0,
+            "name": "M / 빨강"
         }
     ]
 }
