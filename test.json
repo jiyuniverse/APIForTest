@@ -8,7 +8,7 @@
             ],
             "remainCount": 0,
             
-            "name": "스몰 / 검정",
+            "name": "스몰 / 검정"
             
         },
         {
@@ -18,7 +18,7 @@
             ],
             "remainCount": 0,
             
-            "name": "스몰 / 하양",
+            "name": "스몰 / 하양"
             
         },
         {
@@ -28,7 +28,7 @@
             ],
             "remainCount": 0,
             
-            "name": "스몰 / 빨강",
+            "name": "스몰 / 빨강"
             
         },
         {
@@ -38,7 +38,7 @@
             ],
             "remainCount": 1,
             
-            "name": "라지 / 검정",
+            "name": "라지 / 검정"
             
         },
         {
@@ -48,7 +48,7 @@
             ],
             "remainCount": 0,
             
-            "name": "라지 / 하양",
+            "name": "라지 / 하양"
         },
         {
             "optionNameList": [
@@ -57,7 +57,7 @@
             ],
             "remainCount": 0,
             
-            "name": "라지 / 빨강",
+            "name": "라지 / 빨강"
         }
     ],
     "optionGroupFrameList": [
