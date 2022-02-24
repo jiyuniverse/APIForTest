@@ -1,68 +1,68 @@
 {
-  "optionType": "group",
-  "optionGroupFrameList": [{
-          "optionFrameValueList": [
-              "스몰",
-              "라지"
-          ],
-          "optionTitle": "사이즈"
-      },
-      {
-          "optionFrameValueList": [
-              "검정",
-              "하양",
-              "빨강"
-          ],
-          "optionTitle": "색상"
-      }
-  ],
-  "optionList": [{
-          "optionNameList": [
-              "S",
-              "검정"
-          ],
-          "remainCount": 0,
-          "name": "S / 검정"
-      },
-      {
-          "optionNameList": [
-              "S",
-              "하양"
-          ],
-          "remainCount": 0,
-          "name": "S / 하양"
-      },
-      {
-          "optionNameList": [
-              "S",
-              "빨강"
-          ],
-          "remainCount": 0,
-          "name": "S / 빨강"
-      },
-      {
-          "optionNameList": [
-              "M",
-              "검정"
-          ],
-          "remainCount": 1,
-          "name": "M / 검정"
-      },
-      {
-          "optionNameList": [
-              "M",
-              "하양"
-          ],
-          "remainCount": 2,
-          "name": "M / 하양"
-      },
-      {
-          "optionNameList": [
-              "M",
-              "빨강"
-          ],
-          "remainCount": 0,
-          "name": "M / 빨강"
-      }
-  ]
+    "optionType": "group",
+    "optionGroupFrameList": [{
+            "optionFrameValueList": [
+                "스몰",
+                "라지"
+            ],
+            "optionTitle": "사이즈"
+        },
+        {
+            "optionFrameValueList": [
+                "검정",
+                "하양",
+                "빨강"
+            ],
+            "optionTitle": "색상"
+        }
+    ],
+    "optionList": [{
+            "optionNameList": [
+                "S",
+                "검정"
+            ],
+            "remainCount": 0,
+            "name": "S / 검정"
+        },
+        {
+            "optionNameList": [
+                "S",
+                "하양"
+            ],
+            "remainCount": 0,
+            "name": "S / 하양"
+        },
+        {
+            "optionNameList": [
+                "S",
+                "빨강"
+            ],
+            "remainCount": 0,
+            "name": "S / 빨강"
+        },
+        {
+            "optionNameList": [
+                "M",
+                "검정"
+            ],
+            "remainCount": 1,
+            "name": "M / 검정"
+        },
+        {
+            "optionNameList": [
+                "M",
+                "하양"
+            ],
+            "remainCount": 1,
+            "name": "M / 하양"
+        },
+        {
+            "optionNameList": [
+                "M",
+                "빨강"
+            ],
+            "remainCount": 0,
+            "name": "M / 빨강"
+        }
+    ]
 }
