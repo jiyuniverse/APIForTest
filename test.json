@@ -2,8 +2,8 @@
     "optionType": "group",
     "optionGroupFrameList": [{
             "optionFrameValueList": [
-                "S",
-                "M"
+                "스몰",
+                "라지"
             ],
             "optionTitle": "사이즈"
         },
