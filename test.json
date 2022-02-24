@@ -4,164 +4,98 @@
         {
             "optionNameList": [
                 "스몰",
-                "검정",
-                "초코"
+                "검정"
             ],
-            "remainCount": 0,
-            "name": "스몰 / 검정 / 초코"
+            "remainCount": 100,
+            "name": "스몰 / 검정"
         },
         {
             "optionNameList": [
                 "스몰",
-                "검정",
-                "딸기"
+                "하양"
             ],
-            "remainCount": 10,
-            "name": "스몰 / 검정 / 딸기"
+            "remainCount": 1,
+            "name": "스몰 / 하양"
         },
         {
             "optionNameList": [
                 "스몰",
-                "하양",
-                "초코"
+                "빨강"
             ],
             "remainCount": 0,
-            "name": "스몰 / 하양 / 초코"
+            "name": "스몰 / 빨강"
         },
         {
             "optionNameList": [
                 "스몰",
-                "하양",
-                "딸기"
-            ],
-            "remainCount": 0,
-            "name": "스몰 / 하양 / 딸기"
-        },
-        {
-            "optionNameList": [
-                "스몰",
-                "빨강",
-                "초코"
+                "노랑"
             ],
             "remainCount": 1,
-            "name": "스몰 / 빨강 / 초코"
-        },
-        {
-            "optionNameList": [
-                "스몰",
-                "빨강",
-                "딸기"
-            ],
-            "remainCount": 1,
-            "name": "스몰 / 빨강 / 딸기"
+            "name": "스몰 / 노랑"
         },
         {
             "optionNameList": [
                 "라지",
-                "검정",
-                "초코"
+                "검정"
             ],
             "remainCount": 1,
-            "name": "라지 / 검정 / 초코"
+            "name": "라지 / 검정"
         },
         {
             "optionNameList": [
                 "라지",
-                "검정",
-                "딸기"
+                "하양"
+            ],
+            "remainCount": 0,
+            "name": "라지 / 하양"
+        },
+        {
+            "optionNameList": [
+                "라지",
+                "빨강"
+            ],
+            "remainCount": 0,
+            "name": "라지 / 빨강"
+        },
+        {
+            "optionNameList": [
+                "라지",
+                "노랑"
+            ],
+            "remainCount": 0,
+            "name": "라지 / 노랑"
+        },
+        {
+            "optionNameList": [
+                "뭐지",
+                "검정"
             ],
             "remainCount": 1,
-            "name": "라지 / 검정 / 딸기"
+            "name": "뭐지 / 검정"
         },
         {
             "optionNameList": [
-                "라지",
-                "하양",
-                "초코"
-            ],
-            "remainCount": 0,
-            "name": "라지 / 하양 / 초코"
-        },
-        {
-            "optionNameList": [
-                "라지",
-                "하양",
-                "딸기"
-            ],
-            "remainCount": 0,
-            "name": "라지 / 하양 / 딸기"
-        },
-        {
-            "optionNameList": [
-                "라지",
-                "빨강",
-                "초코"
+                "뭐지",
+                "하양"
             ],
             "remainCount": 1,
-            "name": "라지 / 빨강 / 초코"
+            "name": "뭐지 / 하양"
         },
         {
             "optionNameList": [
-                "라지",
-                "빨강",
-                "딸기"
+                "뭐지",
+                "빨강"
             ],
             "remainCount": 1,
-            "name": "라지 / 빨강 / 딸기"
+            "name": "뭐지 / 빨강"
         },
         {
             "optionNameList": [
                 "뭐지",
-                "검정",
-                "초코"
+                "노랑"
             ],
-            "remainCount": 0,
-            "name": "뭐지 / 검정 / 초코"
-        },
-        {
-            "optionNameList": [
-                "뭐지",
-                "검정",
-                "딸기"
-            ],
-            "remainCount": 0,
-            "name": "뭐지 / 검정 / 딸기"
-        },
-        {
-            "optionNameList": [
-                "뭐지",
-                "하양",
-                "초코"
-            ],
-            "remainCount": 0,
-            "name": "뭐지 / 하양 / 초코"
-        },
-        {
-            "optionNameList": [
-                "뭐지",
-                "하양",
-                "딸기"
-            ],
-            "remainCount": 0,
-            "name": "뭐지 / 하양 / 딸기"
-        },
-        {
-            "optionNameList": [
-                "뭐지",
-                "빨강",
-                "초코"
-            ],
-            "remainCount": 0,
-            "name": "뭐지 / 빨강 / 초코"
-        },
-        {
-            "optionNameList": [
-                "뭐지",
-                "빨강",
-                "딸기"
-            ],
-            "remainCount": 0,
-            "name": "뭐지 / 빨강 / 딸기"
+            "remainCount": 1,
+            "name": "뭐지 / 노랑"
         }
     ],
     "optionGroupFrameList": [
@@ -177,16 +111,10 @@
             "optionFrameValueList": [
                 "검정",
                 "하양",
-                "빨강"
+                "빨강",
+                "노랑"
             ],
             "optionTitle": "색상"
-        },
-        {
-            "optionFrameValueList": [
-                "초코",
-                "딸기"
-            ],
-            "optionTitle": "맛"
         }
     ]
 }
