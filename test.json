@@ -3,509 +3,89 @@
     "optionList": [
         {
             "optionNameList": [
-                "a",
-                "1"
+                "스몰",
+                "검정"
             ],
             "remainCount": 0,
             "isDelete": false,
             "optionName": null,
-            "name": "a / 1"
+            "name": "스몰 / 검정",
+            "index": 0
         },
         {
             "optionNameList": [
-                "a",
-                "2"
+                "스몰",
+                "하양"
             ],
             "remainCount": 0,
             "isDelete": false,
             "optionName": null,
-            "name": "a / 2"
+            "name": "스몰 / 하양",
+            "index": 1
         },
         {
             "optionNameList": [
-                "a",
-                "3"
+                "스몰",
+                "빨강"
             ],
             "remainCount": 0,
             "isDelete": false,
             "optionName": null,
-            "name": "a / 3"
+            "name": "스몰 / 빨강",
+            "index": 2
         },
         {
             "optionNameList": [
-                "a",
-                "4"
+                "라지",
+                "검정"
+            ],
+            "remainCount": 1,
+            "isDelete": false,
+            "optionName": null,
+            "name": "라지 / 검정",
+            "index": 3,
+            "count": 1,
+            "realCount": 1,
+            "msg": ""
+        },
+        {
+            "optionNameList": [
+                "라지",
+                "하양"
             ],
             "remainCount": 0,
             "isDelete": false,
             "optionName": null,
-            "name": "a / 4"
+            "name": "라지 / 하양",
+            "index": 4
         },
         {
             "optionNameList": [
-                "a",
-                "5"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "a / 5"
-        },
-        {
-            "optionNameList": [
-                "a",
-                "6"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "a / 6"
-        },
-        {
-            "optionNameList": [
-                "ab",
-                "1"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "ab / 1"
-        },
-        {
-            "optionNameList": [
-                "ab",
-                "2"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "ab / 2"
-        },
-        {
-            "optionNameList": [
-                "ab",
-                "3"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "ab / 3"
-        },
-        {
-            "optionNameList": [
-                "ab",
-                "4"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "ab / 4"
-        },
-        {
-            "optionNameList": [
-                "ab",
-                "5"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "ab / 5"
-        },
-        {
-            "optionNameList": [
-                "ab",
-                "6"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "ab / 6"
-        },
-        {
-            "optionNameList": [
-                "c",
-                "1"
+                "라지",
+                "빨강"
             ],
             "remainCount": 0,
             "isDelete": false,
             "optionName": null,
-            "name": "c / 1"
-        },
-        {
-            "optionNameList": [
-                "c",
-                "2"
-            ],
-            "remainCount": 0,
-            "isDelete": false,
-            "optionName": null,
-            "name": "c / 2"
-        },
-        {
-            "optionNameList": [
-                "c",
-                "3"
-            ],
-            "remainCount": 0,
-            "isDelete": false,
-            "optionName": null,
-            "name": "c / 3"
-        },
-        {
-            "optionNameList": [
-                "c",
-                "4"
-            ],
-            "remainCount": 0,
-            "isDelete": false,
-            "optionName": null,
-            "name": "c / 4"
-        },
-        {
-            "optionNameList": [
-                "c",
-                "5"
-            ],
-            "remainCount": 0,
-            "isDelete": false,
-            "optionName": null,
-            "name": "c / 5"
-        },
-        {
-            "optionNameList": [
-                "c",
-                "6"
-            ],
-            "remainCount": 0,
-            "isDelete": false,
-            "optionName": null,
-            "name": "c / 6"
-        },
-        {
-            "optionNameList": [
-                "d",
-                "1"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "d / 1"
-        },
-        {
-            "optionNameList": [
-                "d",
-                "2"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "d / 2"
-        },
-        {
-            "optionNameList": [
-                "d",
-                "3"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "d / 3"
-        },
-        {
-            "optionNameList": [
-                "d",
-                "4"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "d / 4"
-        },
-        {
-            "optionNameList": [
-                "d",
-                "5"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "d / 5"
-        },
-        {
-            "optionNameList": [
-                "d",
-                "6"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "d / 6"
-        },
-        {
-            "optionNameList": [
-                "e",
-                "1"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "e / 1"
-        },
-        {
-            "optionNameList": [
-                "e",
-                "2"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "e / 2"
-        },
-        {
-            "optionNameList": [
-                "e",
-                "3"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "e / 3"
-        },
-        {
-            "optionNameList": [
-                "e",
-                "4"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "e / 4"
-        },
-        {
-            "optionNameList": [
-                "e",
-                "5"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "e / 5"
-        },
-        {
-            "optionNameList": [
-                "e",
-                "6"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "e / 6"
-        },
-        {
-            "optionNameList": [
-                "f",
-                "1"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "f / 1"
-        },
-        {
-            "optionNameList": [
-                "f",
-                "2"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "f / 2"
-        },
-        {
-            "optionNameList": [
-                "f",
-                "3"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "f / 3"
-        },
-        {
-            "optionNameList": [
-                "f",
-                "4"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "f / 4"
-        },
-        {
-            "optionNameList": [
-                "f",
-                "5"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "f / 5"
-        },
-        {
-            "optionNameList": [
-                "f",
-                "6"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "f / 6"
-        },
-        {
-            "optionNameList": [
-                "g",
-                "1"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "g / 1"
-        },
-        {
-            "optionNameList": [
-                "g",
-                "2"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "g / 2"
-        },
-        {
-            "optionNameList": [
-                "g",
-                "3"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "g / 3"
-        },
-        {
-            "optionNameList": [
-                "g",
-                "4"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "g / 4"
-        },
-        {
-            "optionNameList": [
-                "g",
-                "5"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "g / 5"
-        },
-        {
-            "optionNameList": [
-                "g",
-                "6"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "g / 6"
-        },
-        {
-            "optionNameList": [
-                "h",
-                "1"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "h / 1"
-        },
-        {
-            "optionNameList": [
-                "h",
-                "2"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "h / 2"
-        },
-        {
-            "optionNameList": [
-                "h",
-                "3"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "h / 3"
-        },
-        {
-            "optionNameList": [
-                "h",
-                "4"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "h / 4"
-        },
-        {
-            "optionNameList": [
-                "h",
-                "5"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "h / 5"
-        },
-        {
-            "optionNameList": [
-                "h",
-                "6"
-            ],
-            "remainCount": 1,
-            "isDelete": false,
-            "optionName": null,
-            "name": "h / 6"
+            "name": "라지 / 빨강",
+            "index": 5
         }
     ],
     "optionGroupFrameList": [
         {
             "optionFrameValueList": [
-                "a",
-                "ab",
-                "c",
-                "d",
-                "e",
-                "f",
-                "g",
-                "h"
+                "스몰",
+                "라지"
             ],
-            "optionTitle": "옵션 개수 추"
+            "optionTitle": "사이즈"
         },
         {
             "optionFrameValueList": [
-                "1",
-                "2",
-                "3",
-                "4",
-                "5",
-                "6"
+                "검정",
+                "하양",
+                "빨강"
             ],
-            "optionTitle": "아따"
+            "optionTitle": "색상"
         }
     ]
 }
